@@ -1,0 +1,6 @@
+{
+  "name": "ABDESAMAD BAHOUS SVT",
+  "description": "منصة تعليمية تفاعلية ثلاثية الأبعاد لمادة علوم الحياة والأرض (السنة الثالثة إعدادي - المنهج المغربي 3AC Biof) مع الأستاذ عبد الصمد.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
